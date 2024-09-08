@@ -3,17 +3,17 @@
 This repository contains all the projects that I would like to highlight and that show the progress I have made over time.
 
 > [!NOTE]
-> ❗Some projects I would like to stand out: **[CodebayBackend]**, **[Kata]**, **[eCommerce]**, **[Notway]**, **[PokeStats]** and **[ContactBook]**
+> ❗Some projects I would like to stand out: **[Codebay]**, **[Kata]**, **[Notway]**, **[PokeStats]** and **[ContactBook]**
 
 <div align="center">
 
 ## 🗺️ Index
 
-- [Metrica Lab (2023-Current)](#metrica-lab-2023---current)
+- [Metrica Lab (2023)](#metrica-lab-2023)
 - [DA2D1A (2022-2023)](#da2d1a-2022---2023)
 - [DA1D1A (2021-2022)](#da1d1a-2021---2022)
 
-## Metrica Lab (2023 - Current)
+## Metrica Lab (2023)
 
 <div align="left">
 
@@ -29,21 +29,17 @@ Projects emphasizing fundamental concepts in **streams**, **design patterns**, *
 | ⛩️ [Kata]              | 2023-10-16  | Cryptography Kata                                         |
 | 🎬 [RestClient]        | 2023-10-25  | REST Client consuming the OMDB API                        |
 | 👥 [VibelyBackend]     | 2023-10-31  | Social media spring app                                   |
-| 🏛️ [CodebayBackend]    | 2023-12-05  | Back-end web app with **Hexagonal Architecture**          |
+| 🏛️ [Codebay]    | 2023-12-05  | Back-end web app with **Hexagonal Architecture**          |
 | 🤖 [Automaton]         | 2023-12-11  | Automaton for regexp example                              |
-| 🚀 [CodebayFrontend]   | 2023-12-21  | Front-end web app with **Clean Architecture**             |
-| 🏪 [Codebay]           | 2024-0X-XX  | E-commerce app                                            |
 
 [Criteria]:          https://github.com/Quathar/MetricaLab/tree/main/P1-Criteria
 [DeckOfCards]:       https://github.com/Quathar/MetricaLab/tree/main/P2-DeckOfCards
 [CommandCalculator]: https://github.com/Quathar/MetricaLab/tree/main/P3-CommandCalculator
 [Kata]:              https://github.com/Quathar/CryptographyInCharacters
-[RestClient]:        https://github.com/Quathar/MetricaLab/tree/main/P4-RestClient
+[RestClient]:        https://github.com/Quathar/MetricaLab/tree/main/P5-RestClient
 [VibelyBackend]:     https://github.com/gonzalorg8799/VibelyBackend
-[CodebayBackend]:    https://github.com/Quathar/CodebayBackend
+[Codebay]:    https://github.com/Quathar/CodebayBackend
 [Automaton]:         https://github.com/Quathar/MetricaLab/tree/main/P6-Automaton
-[CodebayFrontend]:   https://github.com/Quathar/CodebayFrontend
-[Codebay]:           https://github.com/Quathar/Codebay
 
 **⬆️ [Back to Index](https://github.com/Quathar/Quathar-Projects?tab=readme-ov-file#%EF%B8%8F-index)**
 
@@ -109,10 +105,10 @@ This projects cover:
 [ChatServer]:          https://github.com/Quathar/ChatServer
 [PhotoGallery]:        https://github.com/Quathar/WDCE/tree/main/Projects/P2-PhotoGallery
 [Threads&Sockets]:     https://github.com/Quathar/PSP/tree/main/Exams/E2-Threads%26Sockets
-[ClientFTP]:           https://github.com/Quathar/PSP/tree/main/Projects/P6-ClientFTP
+[ClientFTP]:           https://github.com/Quathar/PSP/tree/main/Projects/P7-ClientFTP
 [FormWithValidations]: https://github.com/Quathar/WDSE/tree/main/P2-FormWithValidations
-[ClientSMTP]:          https://github.com/Quathar/PSP/tree/main/Projects/P7-ClientSMTP
-[ClientREST]:          https://github.com/Quathar/PSP/tree/main/Projects/P8-ClientREST
+[ClientSMTP]:          https://github.com/Quathar/PSP/tree/main/Projects/P8-ClientSMTP
+[ClientREST]:          https://github.com/Quathar/PSP/tree/main/Projects/P9-ClientREST
 [RESTfulAPI]:          https://github.com/Quathar/RESTfulAPI
 [Encryption]:          https://github.com/Quathar/PSP/tree/main/Units/U5-Encryption
 [SecureRestAPI]:       https://github.com/Quathar/PSP/tree/main/Units/U5-SecureRestAPI
